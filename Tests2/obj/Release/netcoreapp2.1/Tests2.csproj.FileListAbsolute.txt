@@ -1,0 +1,11 @@
+C:\Users\u1\source\repos\Tests2\Tests2\bin\Release\netcoreapp2.1\Tests2.deps.json
+C:\Users\u1\source\repos\Tests2\Tests2\bin\Release\netcoreapp2.1\Tests2.runtimeconfig.json
+C:\Users\u1\source\repos\Tests2\Tests2\bin\Release\netcoreapp2.1\Tests2.runtimeconfig.dev.json
+C:\Users\u1\source\repos\Tests2\Tests2\bin\Release\netcoreapp2.1\Tests2.dll
+C:\Users\u1\source\repos\Tests2\Tests2\bin\Release\netcoreapp2.1\Tests2.pdb
+C:\Users\u1\source\repos\Tests2\Tests2\obj\Release\netcoreapp2.1\Tests2.csprojAssemblyReference.cache
+C:\Users\u1\source\repos\Tests2\Tests2\obj\Release\netcoreapp2.1\Tests2.csproj.CoreCompileInputs.cache
+C:\Users\u1\source\repos\Tests2\Tests2\obj\Release\netcoreapp2.1\Tests2.AssemblyInfoInputs.cache
+C:\Users\u1\source\repos\Tests2\Tests2\obj\Release\netcoreapp2.1\Tests2.AssemblyInfo.cs
+C:\Users\u1\source\repos\Tests2\Tests2\obj\Release\netcoreapp2.1\Tests2.dll
+C:\Users\u1\source\repos\Tests2\Tests2\obj\Release\netcoreapp2.1\Tests2.pdb
